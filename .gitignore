@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Gyakorlas/Zh2022_3/Zh2022_3/obj
+/Gyakorlas/Zh2022_3/Zh2022_3/bin/Debug/net6.0
+/Gyakorlas/Szálkezelés_Gyak/.vs
+/Gyakorlas/Szálkezelés_Gyak/Szálkezelés_Gyak/bin/Debug/net6.0
+/Gyakorlas/Szálkezelés_Gyak/Szálkezelés_Gyak/obj
+/Gyakorlas/ZH2020Console/.vs
+/Gyakorlas/ZH2020Console/ZH2020Console/bin/Debug/net6.0
+/Gyakorlas/ZH2020Console/ZH2020Console/obj
+/Gyakorlas/Zh2022_1/.vs
+/Gyakorlas/Zh2022_1/Zh2022_1/bin/Debug/net6.0
+/Gyakorlas/Zh2022_1/Zh2022_1/obj
+/Gyakorlas/ZH2022_2/.vs
+/Gyakorlas/ZH2022_2/ZH2022_2/bin/Debug/net6.0-windows
+/Gyakorlas/ZH2022_2/ZH2022_2/obj
+/Gyakorlas/Zh2022_3/.vs

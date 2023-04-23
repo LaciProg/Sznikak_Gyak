@@ -21,11 +21,11 @@ namespace ZH2020Console
 
         static void Main(string[] args)
         {
-            //AreaFunc();
-            //Tipp();
-            //CourseFunc();
-            //SzamGenThread();
-            //ProgressFunc();
+            AreaFunc();
+            Tipp();
+            CourseFunc();
+            SzamGenThread();
+            ProgressFunc();
             PollFunc();
         }
 
@@ -64,7 +64,7 @@ namespace ZH2020Console
             genEvent.WaitOne();
             Console.WriteLine("Köszönöm");
             vegegenEvent.WaitOne();
-            Thread.CurrentThread.Join();
+            //Thread.CurrentThread.Join();
 
         }
 
@@ -77,7 +77,7 @@ namespace ZH2020Console
             genEvent.Set();
             Thread.Sleep(10000);
             vegegenEvent.Set();
-            Thread.CurrentThread.Join();
+            //Thread.CurrentThread.Join();
 
         }
 
@@ -107,20 +107,21 @@ namespace ZH2020Console
             Console.WriteLine(szam);
             startEvenet.Set();
             Thread.Sleep(60000);
-            Thread.CurrentThread.Join();   
+            //Thread.CurrentThread.Join();   
         }
 
         private static void TippTheradFunc(){
             startEvenet.WaitOne();
             while(true){
                 lock (foundLock) {
-                    if (found) { Thread.CurrentThread.Join(); }
+                    if (found) { return; /*Thread.CurrentThread.Join();*/ }
                     int tipp = random.Next(100);
                     //tipp = 69;
                     Console.WriteLine(tipp);
                     if (tipp == szam) {
-                        Console.WriteLine("Nyertem"); found = true; 
-                        Thread.CurrentThread.Join();
+                        Console.WriteLine("Nyertem"); found = true;
+                        break;
+                        //Thread.CurrentThread.Join();
                     }
                 }               
                 Thread.Sleep(500);               

@@ -14,7 +14,7 @@
 
         public void Dispose()
         {
-            Console.WriteLine("Fürdés idő!");
+            Console.WriteLine("Vége!");
         }
     }
 }

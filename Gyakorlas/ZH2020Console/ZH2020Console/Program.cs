@@ -84,17 +84,17 @@ namespace ZH2020Console
         private static void CourseFunc(){
             Course course = new Course();
             course.studentDelegate += CourseDelegateFunc;
-            course.Register("Niga1");
-            course.Register("Niga2");
-            course.Register("Niga3");
-            course.Register("Niga4");
-            course.Register("Niga5");
+            course.Register("A");
+            course.Register("B");
+            course.Register("C");
+            course.Register("D");
+            course.Register("E");
 
             course.Dispose();
         }
 
         private static void CourseDelegateFunc(string name, int count){
-            Console.WriteLine("Egy új nigga érkezett Lengyelországba. Üdvüzüljétek {0}-t, immáron {1}-en vagyunk. Hurrá!!", name, count);
+            Console.WriteLine("Egy ember érkezett. Üdvüzüljétek {0}-t, immáron {1}-en vagyunk. Hurrá!!", name, count);
         }
 
 

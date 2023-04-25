@@ -18,12 +18,10 @@
             Thread f2 = new Thread(FogyasztoFunction) { IsBackground = true, Name = "f2" }; ThreadsLeft++; f2.Start();
             Thread f3 = new Thread(FogyasztoFunction) { IsBackground = true, Name = "f3" }; ThreadsLeft++; f3.Start();
 
-            manualReset.WaitOne();
-            termelő.Join();
+            //manualReset.WaitOne();
+            //termelő.Join();
             
         }
-
-            
 
         private static void TermelőFunction(){
             int i = 1;    
@@ -43,7 +41,7 @@
         private static void FogyasztoFunction(){
             MyAutoResetEvenet.WaitOne();
             Console.WriteLine(Thread.CurrentThread.Name);
-            bool ok = false;
+            //bool ok = false;
             lock (lockList)
             {
                 if (Elemszam() >= 30)
@@ -51,11 +49,11 @@
                     ints.Clear();
                     Console.WriteLine("megtelt");
                     ThreadsLeft--;
-                    if (ThreadsLeft == 0) manualReset.Set();
-                    ok = true;
+                    //if (ThreadsLeft == 0) manualReset.Set();
+                    //ok = true;
                 }
             }
-            if(ok) Thread.CurrentThread.Join();
+            //if (ok) return;//Thread.CurrentThread.Join();
         }
     }
 }

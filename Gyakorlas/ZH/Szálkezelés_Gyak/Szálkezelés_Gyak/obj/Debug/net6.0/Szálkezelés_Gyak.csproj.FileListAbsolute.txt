@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\bin\Debug\net6.0\Szálkezelés_Gyak.exe
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\bin\Debug\net6.0\Szálkezelés_Gyak.deps.json
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\bin\Debug\net6.0\Szálkezelés_Gyak.runtimeconfig.json
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\bin\Debug\net6.0\Szálkezelés_Gyak.dll
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\bin\Debug\net6.0\Szálkezelés_Gyak.pdb
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.dll
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\refint\Szálkezelés_Gyak.dll
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.pdb
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\Szálkezelés_Gyak.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sznikák\Szálkezelés_Gyak\Szálkezelés_Gyak\obj\Debug\net6.0\ref\Szálkezelés_Gyak.dll

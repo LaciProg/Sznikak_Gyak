@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\bin\Debug\net6.0-windows\Kapd_El_A_Négyzetet.exe
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\bin\Debug\net6.0-windows\Kapd_El_A_Négyzetet.deps.json
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\bin\Debug\net6.0-windows\Kapd_El_A_Négyzetet.runtimeconfig.json
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\bin\Debug\net6.0-windows\Kapd_El_A_Négyzetet.dll
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\bin\Debug\net6.0-windows\Kapd_El_A_Négyzetet.pdb
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.Form1.resources
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.dll
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\refint\Kapd_El_A_Négyzetet.dll
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.pdb
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\Kapd_El_A_Négyzetet.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sznikák\Gyakorlas\Kapd_El_A_Négyzetet\Kapd_El_A_Négyzetet\obj\Debug\net6.0-windows\ref\Kapd_El_A_Négyzetet.dll

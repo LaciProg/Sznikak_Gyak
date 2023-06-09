@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\bin\Debug\net6.0-windows\Rajz.exe
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\bin\Debug\net6.0-windows\Rajz.deps.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\bin\Debug\net6.0-windows\Rajz.runtimeconfig.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\bin\Debug\net6.0-windows\Rajz.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\bin\Debug\net6.0-windows\Rajz.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\refint\Rajz.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\Rajz.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2018\Rajz\Rajz\obj\Debug\net6.0-windows\ref\Rajz.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\bin\Debug\net6.0\18VizsgaAB.exe
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\bin\Debug\net6.0\18VizsgaAB.deps.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\bin\Debug\net6.0\18VizsgaAB.runtimeconfig.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\bin\Debug\net6.0\18VizsgaAB.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\bin\Debug\net6.0\18VizsgaAB.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\refint\18VizsgaAB.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\18VizsgaAB.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\18VizsgaAB\18VizsgaAB\obj\Debug\net6.0\ref\18VizsgaAB.dll

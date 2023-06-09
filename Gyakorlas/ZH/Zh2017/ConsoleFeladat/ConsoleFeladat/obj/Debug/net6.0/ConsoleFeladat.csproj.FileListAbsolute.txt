@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\bin\Debug\net6.0\ConsoleFeladat.exe
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\bin\Debug\net6.0\ConsoleFeladat.deps.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\bin\Debug\net6.0\ConsoleFeladat.runtimeconfig.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\bin\Debug\net6.0\ConsoleFeladat.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\bin\Debug\net6.0\ConsoleFeladat.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\refint\ConsoleFeladat.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ConsoleFeladat.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Zh2017\ConsoleFeladat\ConsoleFeladat\obj\Debug\net6.0\ref\ConsoleFeladat.dll

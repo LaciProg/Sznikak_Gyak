@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.Form1.resources
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sznikák\Sznikak_Gyak\Gyakorlas\Vizsga\v18\Forms\Forms\obj\Debug\net6.0-windows\ref\Forms.dll

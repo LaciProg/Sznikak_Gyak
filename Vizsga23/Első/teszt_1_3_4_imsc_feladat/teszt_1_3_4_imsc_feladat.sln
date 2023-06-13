@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teszt_1_3_4_imsc_feladat", "teszt_1_3_4_imsc_feladat\teszt_1_3_4_imsc_feladat.csproj", "{BC101AD3-AC3C-4C89-88D6-0FEB22BE4AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC101AD3-AC3C-4C89-88D6-0FEB22BE4AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC101AD3-AC3C-4C89-88D6-0FEB22BE4AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC101AD3-AC3C-4C89-88D6-0FEB22BE4AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC101AD3-AC3C-4C89-88D6-0FEB22BE4AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {473751BD-B2A4-4402-8764-32C66CDF278C}
+	EndGlobalSection
+EndGlobal

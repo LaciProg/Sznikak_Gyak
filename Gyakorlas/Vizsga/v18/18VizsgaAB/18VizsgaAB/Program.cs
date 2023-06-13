@@ -5,10 +5,24 @@
         static List<int> values = new();
         static AutoResetEvent autoResetEvent = new AutoResetEvent(false);
         static object lockObject = new();
+        static object syncObject = new object();
+
         static void Main(string[] args)
         {
+            lock (syncObject)
+            {
+                f();
+            }
+        
             F1();
             F3();
+        }
+        static void f()
+        {
+            lock (syncObject)
+            {
+                Console.WriteLine("Hello!");
+            }
         }
 
         private static void F3() {

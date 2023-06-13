@@ -9,7 +9,8 @@ namespace _18VizsgaAB
     public delegate void NameDelegate(string name, int num);
     public class Course
     {
-        public NameDelegate nameDelegate;
+
+        public event NameDelegate nameDelegate;
         private int num;
         public int StudentCount {
             get => num;

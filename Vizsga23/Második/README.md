@@ -7,5 +7,5 @@
 3) stack-es feladat, két munkaszál dobálja bele az inteket (0-100 között),
    közben a main törli öket és kiírja a konzolra, hogy mit törölt,
    ha vmelyik munkaszál 99-et sorsol akkor leáll.
-   /*Ebben a feladatban változtattam, mert szerintem a többi hasonló feladathoz képest ez a leírás túl könnyű*/
+   *Ebben a feladatban változtattam, mert szerintem a többi hasonló feladathoz képest ez a leírás túl könnyű*
 5) adapter, leírás, jellemzés, osztály + szeki

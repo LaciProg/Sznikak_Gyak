@@ -44,8 +44,8 @@
         private static Stack<int> stack = new();    //Tároló
         private static object lockObject = new();
         private static Random Random = new();
-        private static int active = 0;
-        private static AutoResetEvent AutoResetEvent = new(false);
+        private static bool active = true;
+        private static ManualResetEvent ManualResetEvent = new(false);
         public static void F3()
         {
             Thread t1 = new Thread(ThreadFunc) { IsBackground = true };
@@ -54,11 +54,14 @@
             t2.Start();
             Thread.Sleep(1000);
             while (true) {
-                if(active == 0 && stack.Count == 0) { break; }
-                if(stack.Count > 0) {
-                    lock(lockObject) {
+                ManualResetEvent.WaitOne();
+                lock (lockObject)
+                {
+                    if (!active && stack.Count == 0) { break; }
+                    if (stack.Count > 0) {            
                         Console.WriteLine(stack.Pop());
                     }
+                    else{ ManualResetEvent.Reset(); }
                 }
             }
             t1.Join();
@@ -66,16 +69,19 @@
         }
 
         public static void ThreadFunc(){
-            active++;
             while(true){
-                int szam = Random.Next(101);    //0-100
-                Console.WriteLine("Generált: "+szam);
-                if (szam == 99) {  active--; break; }
-                lock (lockObject) { ;
+                lock (lockObject)
+                {
+                    if (!active) { ManualResetEvent.Set(); break; }     //Ha a másik szál 99et sorsolt akkor vége
+                    // "ha jól emlékszem az volt, hogyha valamelyik szál 99-et sorsol, akkor a két munkaszál leáll,
+                    // de a main addig még törli az elemeket ameddig a stack.Count > 0"
+                    int szam = Random.Next(101);    //0-100
+                    Console.WriteLine("Generált: " + szam);
+                    if (szam == 99) { active = false; break; }
                     stack.Push(szam);
-                    AutoResetEvent.Set();
-                    Thread.Sleep(100);      //Általában kell , Namemeg amúgy is, így biztos tud dolgozni a main is :D  
+                    ManualResetEvent.Set();
                 }
+                Thread.Sleep(100);      //Általában kell , Namemeg amúgy is, így biztos tud dolgozni a main is :D             
             }
         }
     }

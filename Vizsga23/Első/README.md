@@ -22,6 +22,6 @@ Segítség a szokásos: timer, random, MouseEventArgs.
 Nagyon hasonló egy korábbi zh feladatra.
 Egy Listába pakol egy termelő szál számokat. 200at minden, szám után vár 100ms-et. A 200 db után 10sec-et.
 A fő szál elindítja a termelőszálat majd vár véletlen időt 0-10 sec között.
-Ha az utolsó szám ami a listában van az páratlan (List<int>) akkor berak egy -1 -et majd megvárja hatékonyoan amíg a termelő megcsinálja a 200 számot.
+Ha az utolsó szám ami a listában van az páros (List<int>) akkor berak egy -1 -et majd megvárja hatékonyoan amíg a termelő megcsinálja a 200 számot.
 Ez után kiírja, hogy "Köszönöm".
 Majd megvárja amíg a termelő behófejezi a futását (EGYSZERŰ, HATÉKONY módon).
